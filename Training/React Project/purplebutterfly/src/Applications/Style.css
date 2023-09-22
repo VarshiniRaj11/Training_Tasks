@@ -1,0 +1,84 @@
+.navbar-nav>li {
+    padding-left: 30px;
+}
+
+
+
+.caption-left {
+    top: 30%;
+    left: 15%;
+    right: auto;
+    text-align: left;
+}
+
+.carouselExampleCaptions {
+    position: relative;
+}
+
+.overlap-container {
+    position: relative;
+    border-radius: 20px;
+    top: 140%;
+    left: 50%;
+    transform: translate(-55%, -20%);
+    background-color: white;
+    color: black;
+    padding: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.container2 {
+    position: relative;
+    border-radius: 30px;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    left: 50%;
+    transform: translate(-50%, 10%);
+    background-color: white;
+    color: black;
+    padding: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.zoom {
+    transition: transform .2s;
+    
+  }
+  
+  .zoom:hover {
+    transform: scale(1.1); 
+  }
+
+.ImageRound {
+    border-radius: 20px;
+}
+
+
+.text-top {
+    position: relative;
+    bottom: 130px;
+  }
+
+
+.Footer {
+    display: block;
+    width: 100vw;
+    height: 60vh;
+}
+
+.round{
+    border-radius: 30px;
+    border-color: black;
+}
+
+.custom-bg {
+    background-color: rgb(72, 14, 84);
+}
+
+.text-colour{
+    color: rgb(72, 14, 84);
+}
+
+.houseicon{
+   color:\F425;
+}
